@@ -17,9 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61d293f1-0e51-49af-b563-cbc57c542cac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -76,7 +75,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30678147" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -129,7 +128,7 @@
       <workItem from="1605145881623" duration="5170000" />
       <workItem from="1605340391949" duration="5205000" />
       <workItem from="1605353375552" duration="41000" />
-      <workItem from="1605354672978" duration="1045000" />
+      <workItem from="1605354672978" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1605352373094</created>
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605352373095</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update plugin.xml&#10;Added README.md">
+      <created>1605356066792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605356066792</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,11 +175,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+    <MESSAGE value="Update plugin.xml&#10;Added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update plugin.xml&#10;Added README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="99" width="1291" height="852" key="#Project_Structure" timestamp="1605353412935">
@@ -192,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="425" y="77" width="830" height="728" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605349780478" />
-    <state x="570" y="5" width="914" height="1002" key="CommitChangelistDialog2" timestamp="1605352359756">
+    <state x="170" y="21" width="1685" height="993" key="CommitChangelistDialog2" timestamp="1605356054026">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="570" y="5" width="914" height="1002" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605352359756" />
+    <state x="170" y="21" width="1685" height="993" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605356054026" />
     <state x="865" y="279" key="FileChooserDialogImpl" timestamp="1605021368582">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -240,14 +249,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1876" height="214" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1605353271763">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1605356432735">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605353271763" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605356432735" />
     <state x="640" y="129" key="StringManipulation.SortTypeDialog" timestamp="1605351794908">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="640" y="129" key="StringManipulation.SortTypeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605351794908" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605356328169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605356328169" />
     <state x="772" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605352850616">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

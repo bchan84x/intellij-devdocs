@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.bchan84.intellij.devdocs</id>
   <name>devdocs</name>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <vendor email="bchan84@gmail.com" url="https://github.com/bchan84x/intellij-devdocs">bchan84</vendor>
 
   <description>
