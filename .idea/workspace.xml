@@ -16,7 +16,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61d293f1-0e51-49af-b563-cbc57c542cac" name="Default Changelist" comment="" />
+    <list default="true" id="61d293f1-0e51-49af-b563-cbc57c542cac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +64,7 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -81,6 +85,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="intellij-devdocs" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
@@ -114,6 +129,7 @@
       <workItem from="1605145881623" duration="5170000" />
       <workItem from="1605340391949" duration="5205000" />
       <workItem from="1605353375552" duration="41000" />
+      <workItem from="1605354672978" duration="1045000" />
     </task>
     <task id="LOCAL-00001" summary="Added gitignore">
       <created>1605352373094</created>
@@ -184,14 +200,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="865" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605021368582" />
-    <state x="833" y="426" key="Github.ShareDialog" timestamp="1605351993122">
+    <state x="833" y="426" key="Github.ShareDialog" timestamp="1605355398814">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="833" y="426" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605351993122" />
-    <state x="730" y="146" key="Github.UntrackedFilesDialog" timestamp="1605352072006">
+    <state x="833" y="426" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605355398814" />
+    <state x="730" y="146" key="Github.UntrackedFilesDialog" timestamp="1605355434829">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="730" y="146" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605352072006" />
+    <state x="730" y="146" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605355434829" />
     <state width="1876" height="214" key="GridCell.Tab.0.bottom" timestamp="1605353274208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

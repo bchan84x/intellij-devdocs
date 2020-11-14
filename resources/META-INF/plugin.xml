@@ -2,7 +2,7 @@
   <id>com.bchan84.intellij.devdocs</id>
   <name>devdocs</name>
   <version>1.0</version>
-  <vendor email="bchan84@gmail.com">bchan84</vendor>
+  <vendor email="bchan84@gmail.com" url="https://github.com/bchan84x/intellij-devdocs">bchan84</vendor>
 
   <description>
     <![CDATA[
@@ -23,7 +23,7 @@
     <![CDATA[
       <ul>
         <li>1.0 - Initial release</li>
-        <li>1.0.1 - Updated language detection</li>
+        <li>1.0.1 - Added README.md</li>
       </ul>
     ]]>
   </change-notes>
