@@ -1,0 +1,61 @@
+<idea-plugin>
+  <id>com.bchan84.intellij.devdocs</id>
+  <name>devdocs</name>
+  <version>1.0</version>
+  <vendor email="bchan84@gmail.com">bchan84</vendor>
+
+  <description>
+    <![CDATA[
+      <h3>devdocs for Intellij</h3>
+      <hr/>
+      A simple Intellij plugin for searching on devdocs.io
+      <br/>
+      <h4>Usage</h4>
+      <hr/>
+      The default shortcut assigned to smart-search is Ctrl-K (Windows, Linux).
+      The plugin either searches for the statement at caret position or the current selection.
+      It will identify the programming language in use and request filtered results accordingly.
+      A non filtered search over all documentation entries can be invoked by adding the Alt modifier key to the shortcut.
+    ]]>
+  </description>
+
+  <change-notes>
+    <![CDATA[
+      <ul>
+        <li>1.0 - Initial release</li>
+        <li>1.0.1 - Updated language detection</li>
+      </ul>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    
+    <action id="DevDocs.Search"
+            class="com.bchan84.intellij.devdocs.SearchAction"
+            text="Search on devdocs"
+            description="Search on devdocs">
+      <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+      <keyboard-shortcut first-keystroke="ctrl k" keymap="$default" />
+    </action>
+    <action id="DevDocs.SearchAll"
+            class="com.bchan84.intellij.devdocs.SearchAllAction"
+            text="Search all on devdocs"
+            description="Search all on devdocs">
+      <add-to-group group-id="EditorPopupMenu" anchor="last"/>
+      <keyboard-shortcut first-keystroke="ctrl alt k" keymap="$default" />
+    </action>
+    
+  </actions>
+
+</idea-plugin>

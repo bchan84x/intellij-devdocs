@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61d293f1-0e51-49af-b563-cbc57c542cac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9b325228-fc8e-4719-abb2-68d3189e2259" />
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rq6mwjf2" />
+  </component>
+  <component name="ProjectId" id="1k6GTfWJxOBrvUyeBTHEjrbdfSO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30678147" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bchan84.intellij.devdocs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="intellij-devdocs" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="intellij-devdocs" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d293f1-0e51-49af-b563-cbc57c542cac" name="Default Changelist" comment="" />
+      <created>1605013638565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605013638565</updated>
+      <workItem from="1605013647703" duration="15259000" />
+      <workItem from="1605056548751" duration="600000" />
+      <workItem from="1605144698546" duration="870000" />
+      <workItem from="1605145881623" duration="5170000" />
+      <workItem from="1605340391949" duration="5205000" />
+      <workItem from="1605353375552" duration="41000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added gitignore">
+      <created>1605352373094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605352373095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="99" width="1291" height="852" key="#Project_Structure" timestamp="1605353412935">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="440" y="99" width="1291" height="852" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1605353412935" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605177164032">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605177164031" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1605016837069">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1605016837069" />
+    <state x="425" y="77" width="830" height="728" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1605349780478">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="425" y="77" width="830" height="728" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605349780478" />
+    <state x="570" y="5" width="914" height="1002" key="CommitChangelistDialog2" timestamp="1605352359756">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="570" y="5" width="914" height="1002" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1605352359756" />
+    <state x="865" y="279" key="FileChooserDialogImpl" timestamp="1605021368582">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="865" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605021368582" />
+    <state x="833" y="426" key="Github.ShareDialog" timestamp="1605351993122">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="833" y="426" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605351993122" />
+    <state x="730" y="146" key="Github.UntrackedFilesDialog" timestamp="1605352072006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="730" y="146" key="Github.UntrackedFilesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605352072006" />
+    <state width="1876" height="214" key="GridCell.Tab.0.bottom" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.0.center" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.0.left" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.0.right" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.1.bottom" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.1.center" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.1.left" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state width="1876" height="214" key="GridCell.Tab.1.right" timestamp="1605353274208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1876" height="214" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605353274208" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1605353271763">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605353271763" />
+    <state x="640" y="129" key="StringManipulation.SortTypeDialog" timestamp="1605351794908">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="129" key="StringManipulation.SortTypeDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605351794908" />
+    <state x="772" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605352850616">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="772" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1605352850616" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605353213771">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1605353213771" />
+  </component>
+</project>

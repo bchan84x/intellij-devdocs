@@ -1,0 +1,129 @@
+.gitignore (GitIgnore)
+.hgignore (HgIgnore)
+.ignore (IgnoreLang)
+<FreeMarker>
+[FreeMarker]
+AIDL
+Amazon Redshift
+AndroidDataBinding
+Angular HTML Template
+Angular SVG Template
+Angular2
+AngularJS
+Apache Cassandra
+Apache Derby
+Apache Hive
+Apache Spark
+AspectJ
+BigQuery
+ClickHouse
+CoffeeScript
+CoffeeScriptLiterate
+Cookie
+CSS
+Dockerfile
+Drools
+DTD
+EclipseLink QL
+ECMA Script Level 4
+ECMAScript 6
+EditorConfig
+EJB QL
+EL
+Exasol
+exclude (GitExclude)
+Flow JS
+FreeMarker
+Generic SQL
+Gherkin
+Greenplum
+Groovy
+GSP
+H2
+Haml
+Hibernate QL
+HSQLDB
+HTML
+HTTP Request
+IBM Db2 iSeries
+IBM Db2 LUW
+IBM Db2 z/OS
+Injectable FreeMarker
+IntegrationPerformanceTest
+Java
+JavaScript
+JavaScript 1.5
+JavaScript 1.8
+JPA QL
+JQL
+JQuery-CSS
+JShell Snippet
+JSON
+JSON5
+JSP
+JSPX
+JSRegexp
+JSUnicodeRegexp
+JSX Harmony
+JVM
+Kotlin
+Kotlin/Native Def
+Less
+Manifest
+MariaDB
+Markdown
+Metadata JSON
+Microsoft SQL Server
+MongoJS
+MongoJS
+MultiDexKeep
+MySQL
+MySQL based
+Nashorn JS
+Oracle
+Oracle SQL*Plus
+Plain text
+PointcutExpression
+PostgreSQL
+PROGUARD
+Properties
+RegExp
+RELAX-NG
+Renderscript
+RoomSql
+Sass
+SCSS
+Shell Script
+Shrinker Config
+Smali
+Snowflake
+SPI
+Spring Data QL
+Spring EL
+SQL
+SQL92
+SQLDateTime
+SQLite
+Stylus
+SVG
+Sybase ASE
+textmate
+Thymeleaf Expressions
+Thymeleaf Iterate Expressions
+Thymeleaf Spring Security Extras
+Thymeleaf Templates Expressions
+Thymeleaf Templates Fragment Expressions
+Thymeleaf URL Expressions
+TypeScript
+TypeScript JSX
+UAST
+UastContextLanguage
+Vertica
+VTL
+XHTML
+XML
+XPath
+XPath2
+XsdRegExp
+YAML
+YouTrack
